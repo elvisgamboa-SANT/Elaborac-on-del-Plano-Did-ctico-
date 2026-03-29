@@ -6,12 +6,25 @@ Actividad: Diseño de un plan de lección con metodología innovadora y tecnolog
 
 📌 Fase 1 – Exploración de Estrategias de Diseño Educativo
 
-Investiga las siguientes metodologías innovadoras y completa la información.
+Metodologías Innovadoras
+Kahoot:  Es una plataforma educativa basada en el juego (gamificación) que permite crear cuestionarios interactivos, encuestas y tests. Es muy utilizada por docentes y empresas para repasar conceptos, evaluar conocimientos y hacer clases más divertidas, donde los participantes responden en tiempo real desde sus móviles o computadoras.
+Sus ventajas, herramienta educativa basada en juegos que aumenta la motivación y participación estudiantil mediante cuestionarios interactivos. Sus principales ventajas incluyen el aprendizaje activo, retroalimentación inmediata para corregir errores, mejora en la retención de conocimientos a largo plazo y la capacidad de evaluar de forma divertida, reduciendo la ansiedad ante exámenes
+Genially: es una herramienta online para crear contenidos interactivos y animados (presentaciones, infografías, gamificación, etc.) sin necesidad de saber programar o diseñar. Su principal característica es la capacidad de añadir capas de información y animaciones a los elementos, convirtiendo la información estática en experiencias visuales, inmersivas y educativas.
+Classcraft es una plataforma de gestión de aula basada en el juego (gamificación) que transforma la clase en una experiencia de rol, motivando a los alumnos al ganar puntos por buen comportamiento y trabajo.
+Para una ventaja seria la combinación de Classcraft y el modelo de aula invertida (flipped classroom), apoyado por recursos de YouTube, potencia el aprendizaje activo al gamificar la teoría en casa y la práctica en clase. Esto aumenta la motivación, personaliza el aprendizaje, fomenta la responsabilidad del alumno y optimiza el tiempo en el aula para la interacción y el trabajo colaborativo.
+Edpuzzle es una plataforma educativa en línea que permite a los docentes convertir cualquier video (de YouTube, propios, etc.) en una lección interactiva. Los profesores pueden insertar preguntas de opción múltiple o abiertas, añadir notas de voz y recortar videos para asegurar la comprensión del alumno y fomentar el aprendizaje activo.
+Sus principales ventajas incluyen el monitoreo detallado del progreso del estudiante, fomento del aprendizaje activo y autónomo, y retroalimentación automática que ahorra tiempo al profesor. 
+El Aprendizaje Basado en Proyectos (ABP) en Google Classroom es una metodología activa donde los estudiantes aprenden investigando y creando un producto final real sobre un tema de su interés. Google Classroom facilita este proceso mediante herramientas para el trabajo colaborativo, comunicación constante y organización de etapas, centrando el aprendizaje en el estudiante en lugar de la enseñanza directa.
+ Como ventaja de (ABP) al facilitar la colaboración en tiempo real, organizar recursos digitales y agilizar la retroalimentación. Permite crear grupos de trabajo, compartir materiales y realizar un seguimiento del progreso, lo que aumenta la motivación y el pensamiento crítico de los alumnos. 
+ Canva:  es una plataforma online de diseño gráfico y suite visual, intuitiva y gratuita, que permite a usuarios sin conocimientos técnicos crear contenidos profesionales. Funciona mediante arrastrar y soltar elementos, ofreciendo miles de plantillas para redes sociales, presentaciones, documentos y videos.
+Como su principal ventaja se destaca por su accesibilidad desde cualquier dispositivo, amplio banco de recursos, colaboración en tiempo real y costos accesibles.
 
-Metodología	Descripción	Ventajas	Herramientas Tecnológicas
-Gamificación			Kahoot, Genially, Classcraft
-Aula Invertida			YouTube, Edpuzzle, Google Classroom
-Aprendizaje Basado en Proyectos			Canva, Padlet, Google Docs
+Padlet es una plataforma digital que funciona como un mural interactivo y colaborativo en tiempo real. Permite a usuarios individuales o grupales crear, organizar y compartir contenidos multimedia (texto, imágenes, videos, enlaces y documentos) de manera sencilla, siendo muy popular en entornos educativos y laborales para lluvias de ideas y trabajo grupal.
+Su ventaja seria facilidad de uso, versatilidad multimedia (videos, audios, fotos, documentos) y trabajo en tiempo real. Permite organizar información visualmente, fomentando la participación activa, la creatividad y la creación de evidencias de aprendizaje. 
+Google Docs : (o Documentos de Google) es un procesador de textos en línea gratuito que permite crear, editar y compartir documentos en tiempo real. Funciona en la nube, lo que significa que no requiere instalación, guarda cambios automáticamente y permite la colaboración simultánea entre varios usuarios. 
+Su ventaja es la colaboración en tiempo real, el guardado automático en la nube y el acceso gratuito desde cualquier dispositivo. Facilita el trabajo en equipo con comentarios, historial de versiones y edición simultánea, siendo ideal para documentos compartidos y la movilidad, funcionando incluso sin conexión a internet. 
+
+
 
 📐 Fase 2 – Selección del Diseño Pedagógico
 
